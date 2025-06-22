@@ -1,12 +1,8 @@
 ---
-layout: default           
+layout: single           
 title: "About Me"
 permalink: /
 author_profile: true     # still shows avatar + sidebar details
-header:
-  overlay_color: "#2e3b4e"
-  overlay_filter: 0.25
-  overlay_image: /images/banner.jpg   # optional hero background
 ---
 
 I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the **University of Waterloo**, working in the [CrySP](https://crysp.uwaterloo.ca/) lab under the supervision of [**Prof. Meng Xu**](https://cs.uwaterloo.ca/~m285xu/). My research interests span:
