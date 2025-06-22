@@ -1,5 +1,5 @@
 ---
-layout: single           
+layout: default           
 title: "About Me"
 permalink: /
 author_profile: true     # still shows avatar + sidebar details
