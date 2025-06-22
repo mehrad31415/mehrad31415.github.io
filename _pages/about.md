@@ -1,5 +1,5 @@
 ---
-layout: splash           # hero-style landing page
+layout: single           
 title: "About Me"
 permalink: /
 author_profile: true     # still shows avatar + sidebar details
