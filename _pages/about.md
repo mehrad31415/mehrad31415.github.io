@@ -28,14 +28,15 @@ I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the
 
 ## 💼 Work Experience
 - **Mainframe Developer & Backend Engineer**, ABN AMRO (Netherlands, 2024)
-- **Embedded Software Engineer**, **Hudson Co.** (Netherlands, 2023)
+- **Embedded Software Engineer**, Hudson Co. (Netherlands, 2023)
 
 ---
 
 ## 🧑‍🏫 Teaching
 - **CS 453 / 698 – Software and Systems Security**  
   *Teaching Assistant · University of Waterloo · Spring 2025*
-- **CS 116 – Introduction to Computer Science 2**
+
+- **CS 116 – Introduction to Computer Science 2**  
   *Teaching Assistant · University of Waterloo · Winter 2025*
 
 ---
