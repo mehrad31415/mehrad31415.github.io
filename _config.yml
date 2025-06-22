@@ -23,11 +23,11 @@ repository               : "mehrad31415/mehrad31415.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mehrad Haghshenas"
+  name             : "Mehrad"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD"
+  bio              : "CS PhD @ UWaterloo"
   location         : "Canada"
-  employer         : "University of Waterloo"
+  employer         : 
   uri              : # URL
   email            : "m3haghsh@uwaterloo.ca" 
 
