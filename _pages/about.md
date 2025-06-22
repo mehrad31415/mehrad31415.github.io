@@ -20,30 +20,30 @@ I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the
 
 ---
 
-## Education
+## 🎓 Education
 - **PhD in Computer Science** – University of Waterloo
-- **Computer Science** – Utrecht University
+- **Computing Science** – Utrecht University
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 - **Mainframe Developer & Backend Engineer**, ABN AMRO (Netherlands, 2024)
 - **Embedded Software Engineer**, **Hudson Co.** (Netherlands, 2023)
 
 ---
 
-## Teaching
+## 🧑‍🏫 Teaching
 - **CS 453 / 698 – Software and Systems Security**  
   *Teaching Assistant · University of Waterloo · Spring 2025*
-- **CS 115 – Introduction to Computer Science 1**
+- **CS 116 – Introduction to Computer Science 2**
   *Teaching Assistant · University of Waterloo · Winter 2025*
 
 ---
 
-## Volunteering Activities
-- Section Leader, **Stanford Code in Place** (2023 – 2025) – mentored 15 students each run  
+## 🤝 Volunteering
+- Section Leader, **Stanford Code in Place** (2023 – 2025)
 - Member, **Formal Methods Europe (FME)** (2023 – present)
-- TEDx volunteer (2023)
+- volunteer, **TEDx** (2023)
 
 ---
 
