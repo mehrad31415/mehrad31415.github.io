@@ -16,7 +16,7 @@ I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the
 
 ---
 
-## 📄 CV & Projects
+## CV & Projects
 
 - **Download my CV:** [Mehrad Haghshenas – CV](/files/Mehrad_Haghshenas.pdf)  
 - **Browse my projects on GitHub:** [@mehrad31415](https://github.com/mehrad31415)
