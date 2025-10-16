@@ -5,7 +5,7 @@ permalink: /
 author_profile: true     # still shows avatar + sidebar details
 ---
 
-I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the **University of Waterloo**, working in the [CrySP](https://crysp.uwaterloo.ca/) lab under the supervision of [Prof. Meng Xu](https://cs.uwaterloo.ca/~m285xu/). My research interests span:
+I’m **Mehrad Haghshenas**, a second-year PhD student in Computer Science at the **University of Waterloo**, working in the [CrySP](https://crysp.uwaterloo.ca/) lab under the supervision of [Prof. Meng Xu](https://cs.uwaterloo.ca/~m285xu/). My research interests span:
 
 - Formal Verification
 - Programming Languages 
@@ -18,5 +18,5 @@ I’m **Mehrad Haghshenas**, a first-year PhD student in Computer Science at the
 
 ## CV & Projects
 
-- **Download my CV:** [Mehrad Haghshenas – CV](/files/Mehrad_Haghshenas.pdf)  
+- **Download my CV:** [CV](/files/Mehrad_Haghshenas.pdf)  
 - **Browse my projects on GitHub:** [@mehrad31415](https://github.com/mehrad31415)
